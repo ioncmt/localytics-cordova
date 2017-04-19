@@ -1,6 +1,6 @@
 {
   "name": "localytics-cordova",
-  "version": "3.8.3",
+  "version": "3.9.0-cmt",
   "description": "Localytics Plugin for Cordova/PhoneGap",
   "cordova": {
     "id": "com.localytics.phonegap.LocalyticsPlugin",
